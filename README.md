@@ -8,6 +8,20 @@
 
 To revisit and understand your team's work in the context of a three project semester.
 
+## Description
+
+Though this presentation defines specific areas of discussion for your team, think of this as an opportunity to tell a story about how your team and its members have grown as individual contributors and team players. The word "narrative" has been associated with this presentation assignment in several conversations -- think about how you can tell your team's _narrative_.
+
+Some opportunities for creative embellishment include (but might not be limited to):
+
+* A team logo
+* A team slogan/tagline
+* A team slide template
+
+As has been the hope all semester, by this point your team should have a good sense of its identity: what each team member brings to the group, how they've grown, and how the team has changed over the last three months.
+
+Of course, we can't ignore how the transition to remote work has affected all of us -- if there are particular narrative points which highlight or discuss this change, those are expected and welcome!
+
 ## Goals
 
 * To reflect on and assess your work as an independent, autonomous software development team
@@ -60,7 +74,7 @@ This presentation must meet the following criteria:
   * Role-by-role summaries which describe how your work in that role contributed to "highlights" or addressed challenges
   * The main successes and improvements from the module and how your group either continued those successes or implemented improvements
 - [ ] An overall review of the group's work on the module and a discussion of its relative success
-- [ ] A member-by-member summary of lessons learned, take-aways, and personal achievements
+- [ ] A member-by-member summary of lessons learned, take-aways, personal achievements, and skills gained or that a team member has become aware that they're suited to
 
 * If creating a slide deck or other presentation format, include a PDF or video file in the `presentation` directory, and
 
