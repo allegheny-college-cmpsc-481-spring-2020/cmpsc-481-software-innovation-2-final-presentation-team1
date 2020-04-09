@@ -70,7 +70,11 @@ The points you earn for this presentation will come from a combination of:
 
 * The quality of your group's reflection and presentation
 * The overall quality of your interaction with and contribution to your chosen project
-* Comments from peers and external reviewers using feedback forms
+* Comments from peers and external reviewers using feedback forms to be provided at the time of the presentation
+
+### Feedback forms
+
+Keep in mind that your instructor has been collecting data on your performance over the course of the semester. This cumulative information will be used to evaluate your performance and will constitute `50 points` of your final participation grade (the same as other modules). There will be one additional survey issued at the time of your team's presentation which will be due by `4 May 2020`. This survey will be distributed via Slack using your individual team channels.
 
 ## Turning in the assignment
 
