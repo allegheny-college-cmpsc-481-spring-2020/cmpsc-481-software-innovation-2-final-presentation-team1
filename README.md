@@ -44,6 +44,8 @@ If choosing the "live" option, the instructor may record the presentation. If yo
 LINK PRESENTATION MATERIALS HERE
 ```
 
+* Replace the template text in the code block above with the link to the appropriate material
+
 This presentation must meet the following criteria:
 
 - [ ] Be between 15 - 20 minutes
@@ -61,7 +63,6 @@ This presentation must meet the following criteria:
 - [ ] A member-by-member summary of lessons learned, take-aways, and personal achievements
 
 * If creating a slide deck or other presentation format, include a PDF or video file in the `presentation` directory, and
-* Replace the above template text `LINK PRESENTATION MATERIALS HERE` with the link to the appropriate material
 
 ## Evaluation
 
