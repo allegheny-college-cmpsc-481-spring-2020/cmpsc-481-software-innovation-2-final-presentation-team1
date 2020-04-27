@@ -39,23 +39,23 @@ The following sources provide good guides to the methods and standards of commun
 
 The following deliverables are due by 11:59 P.M. on the date below.
 
-| Date            | Deliverable            | Summary                                                                                   | 
+| Date            | Deliverable            | Summary                                                                                   |
 |-----------------|------------------------|-------------------------------------------------------------------------------------------|
-| 27 April 2020   | Presentation           | A presentation reviewing your team's work over the course of the semester                 | 
+| 27 April 2020   | Presentation           | A presentation reviewing your team's work over the course of the semester                 |
 | 27 April 2020   | End of Course Survey   | A survey evaluating teamwork, to be shared with the group                                 |
 
 ### Presentation (`File format may vary`)
 
 The Presentation deliverable can take many formats including:
 
-* a narrated Google Slides or recorded Powerpoint presentation, 
-* a video, 
+* a narrated Google Slides or recorded Powerpoint presentation,
+* a video,
 * or a live presentation scheduled with the instructor to take place during the group's normal meeting time
 
 If choosing the "live" option, the instructor may record the presentation. If you do not wish your voice or likeness to be included in the recording, please let the instructor know and we can make arrangements _not_ to record the presentation or have another team member read the text of your contribution.
 
 ```
-LINK PRESENTATION MATERIALS HERE
+Check the presentation folder for a .rar file
 ```
 
 * Replace the template text in the code block above with the link to the appropriate material
